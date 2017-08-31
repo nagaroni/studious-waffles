@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'tdd_study'
+rootProject.name = 'studious-waflles'
